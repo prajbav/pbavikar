@@ -1,0 +1,37 @@
+/* contact css */
+
+#contact-form {
+  border-radius: 5px;
+  /* background-color: #73719d; */
+  padding: 20px;
+  /* background-image: linear-gradient(to right, rgb(89 97 116), #e6e3de); */
+  width: 40%;
+  margin: 10%;
+}
+
+#contact-form input,
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border-bottom: 1px solid rgb(8, 8, 8);
+  border-right: 1px solid rgb(8, 8, 8);
+  border-color: #1c5195;
+  color: aliceblue;
+  /* box-sizing: border-box; */
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+  background-color: rgb(80, 78, 92);
+}
+
+.invisible {
+  visibility: hidden;
+}
+.email-error {
+  border: 1px solid rgb(219, 82, 82);
+}
