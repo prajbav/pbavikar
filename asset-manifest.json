@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pbavikar/static/css/main.32bc0d10.css",
+    "main.js": "/pbavikar/static/js/main.6073a2de.js",
+    "static/js/787.6f1b89b6.chunk.js": "/pbavikar/static/js/787.6f1b89b6.chunk.js",
+    "static/media/brooklyn_praji.jpeg": "/pbavikar/static/media/brooklyn_praji.abe90adf12a33c7e454e.jpeg",
+    "index.html": "/pbavikar/index.html",
+    "main.32bc0d10.css.map": "/pbavikar/static/css/main.32bc0d10.css.map",
+    "main.6073a2de.js.map": "/pbavikar/static/js/main.6073a2de.js.map",
+    "787.6f1b89b6.chunk.js.map": "/pbavikar/static/js/787.6f1b89b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bc0d10.css",
+    "static/js/main.6073a2de.js"
+  ]
+}
